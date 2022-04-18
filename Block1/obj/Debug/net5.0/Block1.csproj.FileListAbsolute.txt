@@ -1,0 +1,16 @@
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\bin\Debug\net5.0\Block1.exe
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\bin\Debug\net5.0\Block1.deps.json
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\bin\Debug\net5.0\Block1.runtimeconfig.json
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\bin\Debug\net5.0\Block1.runtimeconfig.dev.json
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\bin\Debug\net5.0\Block1.dll
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\bin\Debug\net5.0\ref\Block1.dll
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\bin\Debug\net5.0\Block1.pdb
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\obj\Debug\net5.0\Block1.csproj.AssemblyReference.cache
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\obj\Debug\net5.0\Block1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\obj\Debug\net5.0\Block1.AssemblyInfoInputs.cache
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\obj\Debug\net5.0\Block1.AssemblyInfo.cs
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\obj\Debug\net5.0\Block1.csproj.CoreCompileInputs.cache
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\obj\Debug\net5.0\Block1.dll
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\obj\Debug\net5.0\ref\Block1.dll
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\obj\Debug\net5.0\Block1.pdb
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Block1\obj\Debug\net5.0\Block1.genruntimeconfig.cache
