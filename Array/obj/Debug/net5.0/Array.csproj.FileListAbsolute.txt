@@ -1,0 +1,5 @@
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+C:\Users\79777\RiderProjects\всем папкам папка\Stack\Main\Block1\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
